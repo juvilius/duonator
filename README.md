@@ -18,6 +18,8 @@ Tinkerers that really want the trophy but are obstructed by stupid bots.
 This is by no means a finished product or even just an elegant script. It's very ugly in fact because I was in the end just reacting to bugs and explicitly ruling them out, which in most cases let's it guess the right solution.
 
 ## Instructions
+mkdir new-stories retired-stories  
+create a translations file for your language called 'translations'  
 create cookies by logging in.  
 paste the base of the story url in a 'todo-stories' file.  
 figure out the script and change it to your needs.
